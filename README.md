@@ -1,3 +1,5 @@
-# [OutPlaylist](https://outplaylist.tk)
+# [OutPlaylist](https://outplaylist.harshitpuri.dev/)
 
-https://outplaylist.tk
+Create the perfect playlist on demand for your run or workout
+
+https://outplaylist.harshitpuri.dev/
