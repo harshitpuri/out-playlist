@@ -56,7 +56,7 @@ export default function Results() {
     `My OutPlaylist Playlist - ${bpm} bpm`
   );
   const [playlistDescription, setPlaylistDescription] = useState(
-    `Playlist genereated from outplaylist.tk for ${bpm} bpm`
+    `Playlist genereated from outplaylist.harshitpuri.dev for ${bpm} bpm`
   );
 
   async function getMoreSongs() {
